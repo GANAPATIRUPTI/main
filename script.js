@@ -30,7 +30,7 @@
   {
     question:"what you give me ?",
     answers:[
-     {text: "friendship" , correct:false},
+     {text: "friendship" , correct:true},
      {text: "party" , correct:true},
      {text: "love" , correct:true},
      {text: "noting" , correct:false},
