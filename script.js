@@ -1,39 +1,39 @@
  const question = [
  {
-   question:"which is tollest in world ?",
+   question:"my favotrite veg dish ?",
    answers:[
-    {text: "shark" , correct:false},
-    {text: "blue whale" , correct:true},
-    {text: "Elephant" , correct:false},
-    {text: "giraffe" , correct:false},
+    {text: "dalroti" , correct:false},
+    {text: "puribhaji" , correct:false},
+    {text: "purnpoli" , correct:true},
+    {text: "materpnir" , correct:false},
    ]
  },
 
  {
-    question:"what you want in your life?",
+    question:"my favotrite non-veg dish ?",
     answers:[
-     {text: "money-lot-of" , correct:true},
-     {text: "selevery" , correct:false},
+     {text: "fishkdi" , correct:false},
+     {text: "masoli" , correct:false},
+     {text: "mtan-roti" , correct:false},
+     {text: "biryani" , correct:true},
+    ]
+  },
+  {
+    question:"what is my name?",
+    answers:[
+     {text: "Dige" , correct:false},
+     {text: "om" , correct:false},
+     {text: "Ganesh" , correct:true},
+     {text: "omkar" , correct:false},
+    ]
+  },
+  {
+    question:"what you give me ?",
+    answers:[
+     {text: "friendship" , correct:false},
+     {text: "party" , correct:true},
+     {text: "love" , correct:true},
      {text: "noting" , correct:false},
-     {text: "greed" , correct:false},
-    ]
-  },
-  {
-    question:"html full form?",
-    answers:[
-     {text: "shark" , correct:false},
-     {text: "blue whale" , correct:false},
-     {text: "hypertext markup language" , correct:true},
-     {text: "giraffe" , correct:false},
-    ]
-  },
-  {
-    question:"css full form ?",
-    answers:[
-     {text: "shark" , correct:false},
-     {text: "cast ceding style sheet" , correct:true},
-     {text: "Elephant" , correct:false},
-     {text: "giraffe" , correct:false},
     ]
   }
 ];
